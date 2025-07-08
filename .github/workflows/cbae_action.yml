@@ -1,6 +1,7 @@
 name: CBAE action
 
-on: [push]
+on: 
+  push:
   workflow_dispatch:
 
 jobs:
